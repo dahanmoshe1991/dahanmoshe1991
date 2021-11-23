@@ -12,6 +12,10 @@ Nice to meet you. I am Moshe Dahan, an enthusiast developer with a B.Sc in Compu
 - 💖 Generally a dog person but also love cats and enjoy playing on the ukulele.
 <p><br/></p>
 
+Published Articles:
+-  [grpc-c-client-net-server-async-messages-bidirectional-streaming](https://medium.com/@dahanmoshe1991/grpc-c-client-net-server-async-messages-bidirectional-streaming-b99232f42020)
+-  Tls encryption & autantication of grpc c++/c# communication (WIP - stay tuned).
+
 📫 Contact me:<br/><br/>
 &nbsp; &nbsp;&nbsp; &nbsp;Feel free to email me or DM me on LinkedIn.
 <br/> &nbsp; &nbsp;&nbsp; &nbsp;Links below :) <br/><br/>

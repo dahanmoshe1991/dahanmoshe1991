@@ -6,7 +6,7 @@
 
 Hello there! 👋
 
-Nice to meet you. I am Moshe Dahan, an enthusiast developer with a B.Sc in Computer Engineering & currently working as Software Engineer at Spot by NeetApp.
+Nice to meet you. I am Moshe Dahan, an enthusiast developer with a B.Sc in Computer Engineering & currently working as Software Engineer at Spot by NetApp.
 - 👀 I’m interested in MT systems and how they communicate with embedded & web applications. 
 - 🙌 I’m looking to collaborate on openSource projects & develop my own skills in the process.
 <p><br/></p>

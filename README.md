@@ -6,10 +6,9 @@
 
 Hello there! 👋
 
-Nice to meet you. I am Moshe Dahan, an enthusiast developer with a B.Sc in Computer Engineering & currently working as Software Engineer at Stratasys.
+Nice to meet you. I am Moshe Dahan, an enthusiast developer with a B.Sc in Computer Engineering & currently working as Software Engineer at Spot by NeetApp.
 - 👀 I’m interested in MT systems and how they communicate with embedded & web applications. 
 - 🙌 I’m looking to collaborate on openSource projects & develop my own skills in the process.
-- 💖 Generally a dog person but also love cats and enjoy playing on the ukulele.
 <p><br/></p>
 
 Published Articles:

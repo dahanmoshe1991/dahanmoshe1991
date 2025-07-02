@@ -4,18 +4,19 @@
 
 
 
-Hello there! 👋
+👋 Hello there! 
 
-Nice to meet you. I am Moshe Dahan, an enthusiastic developer with a B.Sc. in Computer Engineering, and I am currently working as a Backend Team Leader at Spot.
+Nice to meet you. 
+My name is Moshe Dahan, an enthusiastic developer with a B.Sc. in Computer Engineering, and I am currently working as a Backend Team Leader at Spot.
 - 👀 I’m interested in MT systems and how they communicate with embedded & web applications. 
 - 🙌 I’m looking to collaborate on open-source projects & develop my skills in the process.
 <p><br/></p>
 
-Published Articles:
+📝 Published Article:
 -  [grpc-c-client-net-server-async-messages-bidirectional-streaming](https://medium.com/@dahanmoshe1991/grpc-c-client-net-server-async-messages-bidirectional-streaming-b99232f42020)
 
 📫 Contact me:<br/><br/>
-&nbsp; &nbsp;&nbsp; &nbsp; Feel free to email me or DM me on LinkedIn.
+&nbsp; &nbsp;&nbsp; &nbsp;Feel free to email me or DM me on LinkedIn.
 <br/> &nbsp; &nbsp;&nbsp; &nbsp;Links below :) <br/><br/>
 &nbsp; &nbsp;&nbsp; &nbsp;[<img src="https://cdn3.iconfinder.com/data/icons/social-messaging-ui-color-line/245532/116-512.png" align="center" width="3%">](mailto:dahanmoshe1991@gmail.com) 
 &nbsp;

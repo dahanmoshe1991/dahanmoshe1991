@@ -18,8 +18,8 @@ Published Articles:
 &nbsp; &nbsp;&nbsp; &nbsp; Feel free to email me or DM me on LinkedIn.
 <br/> &nbsp; &nbsp;&nbsp; &nbsp;Links below :) <br/><br/>
 &nbsp; &nbsp;&nbsp; &nbsp;[<img src="https://cdn3.iconfinder.com/data/icons/social-messaging-ui-color-line/245532/116-512.png" align="center" width="3%">](mailto:dahanmoshe1991@gmail.com) 
-&nbsp; &nbsp;
-[<img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Square.png" align="center" width="3%">](https://www.linkedin.com/in/moshe-dahan-8a08b6175/)
+&nbsp;
+[<img src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000" align="center" width="3%">](https://www.linkedin.com/in/moshe-dahan-8a08b6175/)
 
 
 
